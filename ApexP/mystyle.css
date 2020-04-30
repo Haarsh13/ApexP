@@ -1,0 +1,76 @@
+blockquote{
+    text-align: center;
+    font-size: 60px;
+    }
+
+body{
+    background-color: #E5E1D8;
+    margin: 3px
+}
+img{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+    border: 3px;
+
+}
+h1{
+    font-size: 80px;
+    text-align: center;
+    font-family: times;
+    margin:2px;
+    border: 3px;
+}
+span{
+    display: inline-block;
+     font-size: 40px;
+    font-family: sans-serif
+    margin:2px;
+    border: 3px;
+        
+}
+p{
+    font-family: cursive;
+    font-size: 20px;
+}
+h2{
+    font-family: times;
+    font-size: 50px;
+}
+div{
+   
+    display: inline-block;
+     background-image: linear-gradient( #E5E1D8, #d9d3c6);
+        
+}
+.up{font-family: "new times roman";
+    color: rgb(8, 8, 8);
+    font-size: 40px;
+    
+}
+.mid{
+    font-family: "new times roman";
+    color: rgb(8, 8, 8);
+    font-size: 29px;
+    
+}
+.down{
+    color: rgb(8, 8, 8);
+    font-size: 20px;
+}
+.one{
+    display: inline-block;
+    width: 33%;
+ 
+}
+.two{
+    display: inline-block;
+    width: 33%;
+  
+}
+.three{
+    display: inline-block;
+    width: 33%;
+  
+}
